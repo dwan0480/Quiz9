@@ -50,7 +50,7 @@ Use screenshots/images from:
 My mechanic will use timers and timed events to create rhythmic changes across the entire grid of soup cans. Instead of assigning time effects to only one can, the timer system will affect all cans simultaneously, supporting the idea that the whole artwork behaves like one Pop Art machine. Every few seconds, an event will trigger a visual change such as a color palette shift, a label flash, a scale pulse, or a short frame-by-frame transformation. For example, the cans may briefly change from Warhol-inspired red and white into brighter artificial colors, then return to their original state. The user does not need to directly control this mechanic; it works as a repeating visual rhythm in the background. This connects to our project vision because Warhol’s original artwork is based on repetition and mass production, and the timer turns that repetition into movement. The cans become less like separate objects and more like synchronized products on a factory line, advertising display, or animated pop-culture screen.
 
 **Sketch/reference idea:**
-A grid of Campbell’s-style cans with arrows showing timed color changes every 3–5 seconds. You can label the states as:
+A grid of Campbell’s-style cans with arrows showing timed color changes every 3–5 seconds. Label the states as:
 `Normal palette → Flash palette → Scale pulse → Label flicker → Return to normal`
 
 ---
