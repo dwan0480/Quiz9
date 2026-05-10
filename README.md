@@ -1,5 +1,5 @@
 # Quiz9
-[![Andy Warhol, Campbell's Soup Cans, 1962 | Sharon Mollerus | Flickr](https://tse4.mm.bing.net/th/id/OIP.2hNJlGIyDfTptWSJf0EtYwHaEg?pid=Api)](https://www.flickr.com/photos/clairity/20722353368?utm_source=chatgpt.com)
+[![Andy Warhol, Campbell's Soup Cans, 1962 | Sharon Mollerus | Flickr](https://tse4.mm.bing.net/th/id/OIP.2hNJlGIyDfTptWSJf0EtYwHaEg?pid=Api)](https://www.flickr.com/photos/clairity/20722353368)
 
 ---
 
@@ -25,7 +25,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 
 1. MoMA — Andy Warhol, *Campbell’s Soup Cans*, 1962. ([The Museum of Modern Art][1])
 ![example](photos/1.png)
-2. Tate — Roy Lichtenstein, *Whaam!*, 1963. ([泰特美术馆][3])
+2. Tate — Roy Lichtenstein, *Whaam!*, 1963. ([tate museum][3])
 ![example](photos/2.png)
 3. MoMA — Andy Warhol, *Gold Marilyn Monroe*, 1962. ([The Museum of Modern Art][2])
 ![example](photos/3.png)
@@ -59,6 +59,6 @@ A grid of Campbell’s-style cans with arrows showing timed color changes every 
 
 All four mechanics will affect the full soup-can grid at the same time, rather than assigning one mechanic to one can. The cans will share one canvas and remain visually unified through repeated layout, bold outlines, flat colors, and Pop Art-inspired typography. Audio will drive reactive movement or intensity, time-based events will create rhythmic changes, Perlin noise and randomness will introduce variation, and user input will allow direct interaction. Together, these systems will transform Warhol’s static repetition into a living Pop Art display.
 
-[1]: https://www.moma.org/collection/works/79809?utm_source=chatgpt.com "Andy Warhol. Campbell's Soup Cans. 1962"
-[2]: https://www.moma.org/collection/works/79737?utm_source=chatgpt.com "Andy Warhol. Gold Marilyn Monroe. 1962"
-[3]: https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897?utm_source=chatgpt.com "'Whaam!', Roy Lichtenstein, 1963"
+[1]: https://www.moma.org/collection/works/79809 "Andy Warhol. Campbell's Soup Cans. 1962"
+[2]: https://www.moma.org/collection/works/79737 "Andy Warhol. Gold Marilyn Monroe. 1962"
+[3]: https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897 "'Whaam!', Roy Lichtenstein, 1963"
