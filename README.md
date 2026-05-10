@@ -24,8 +24,11 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 **Inspiration image sources:**
 
 1. MoMA — Andy Warhol, *Campbell’s Soup Cans*, 1962. ([The Museum of Modern Art][1])
+![example](photos/1.png)
 2. Tate — Roy Lichtenstein, *Whaam!*, 1963. ([泰特美术馆][3])
+![example](photos/2.png)
 3. MoMA — Andy Warhol, *Gold Marilyn Monroe*, 1962. ([The Museum of Modern Art][2])
+![example](photos/3.png)
 
 ---
 
