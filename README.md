@@ -21,10 +21,7 @@ We will reinterpret **Andy Warhol’s *Campbell’s Soup Cans* (1962)**. The ori
 
 Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interactive Pop Art system where every can becomes part of a shared animated field. Instead of treating each can as a static consumer object, we will make the entire grid react to sound, time, randomness, and user input at the same time. Our inspiration comes from Warhol’s use of repetition, mass production, and bright commercial imagery in *Campbell’s Soup Cans*, as well as the bold graphic impact of Roy Lichtenstein’s *Whaam!* and its comic-book visual language. ([The Museum of Modern Art][1]) We are also inspired by Warhol’s celebrity silkscreen works, such as *Gold Marilyn Monroe*, which use flat color, repetition, and iconic imagery to turn popular culture into art. ([The Museum of Modern Art][2])
 
-**Approx. word count: 127**
-
 **Inspiration image sources:**
-Use screenshots/images from:
 
 1. MoMA — Andy Warhol, *Campbell’s Soup Cans*, 1962. ([The Museum of Modern Art][1])
 2. Tate — Roy Lichtenstein, *Whaam!*, 1963. ([泰特美术馆][3])
