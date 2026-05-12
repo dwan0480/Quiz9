@@ -41,7 +41,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 | [Name 1]        | Audio                       |
 | **[Martin Wong]** | **Time-based**              |
 | [Name 3]        | Perlin noise and randomness |
-| [Name 4]        | User input                  |
+| **[Ming Chen]** | **User Input**                |
 
 ---
 
@@ -53,6 +53,22 @@ My mechanic will use timers and timed events to create rhythmic changes across t
 A grid of Campbell’s-style cans with arrows showing timed color changes every 3–5 seconds. Label the states as:
 `Normal palette → Flash palette → Scale pulse → Label flicker → Return to normal`
 
+
+## User input — [Ming Chen]
+
+This connects to our project vision because Warhol’s original artwork uses repetition and mass-produced consumer imagery. By adding user input, the audience is no longer only looking at the repeated cans. They can interrupt, change, and interact with the grid. This turns the static Pop Art image into a responsive system, where the viewer becomes part of the artwork. By incorporating user input, viewers are no longer just watching those repetitive, static cans. They can interrupt, alter, and interact with the grid. This transforms the static pop art image into an interactive piece. The audience's interactions become part of the work.
+
+**Sketch/reference idea:**
+```
+    A[User moves mouse on canvas] --> B[Detect nearby soup cans]
+    B --> C[Cans enlarge, rotate, or change colour]
+
+    D[User clicks a soup can] --> E[Selected can opens]
+    E --> F[Liquid pours out as a short animation]
+
+    G[User presses keyboard] --> H[Switch Pop Art colour mode]
+    H --> I[Apply new colour palette to the full grid]
+```
 ---
 
 # Part 3: Putting It Together 
