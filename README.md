@@ -41,7 +41,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 | [Name 1]        | Audio                       |
 | **[Martin Wong]** | **Time-based**              |
 | [Name 3]        | Perlin noise and randomness |
-| [Name 4]        | User input                  |
+| **[Ming Chen]**   |  **User input**                   |
 
 ---
 
@@ -53,7 +53,23 @@ My mechanic will use timers and timed events to create rhythmic changes across t
 A grid of Campbell’s-style cans with arrows showing timed color changes every 3–5 seconds. Label the states as:
 `Normal palette → Flash palette → Scale pulse → Label flicker → Return to normal`
 
----
+
+
+## User input Mechanic — [Ming Chen]
+
+My interaction mechanisms are based on user input, primarily using the mouse and keyboard, allowing viewers to directly intervene in and control the soup can grid. In the complete work, the cans will change automatically via a time-based mechanism, but user input adds a layer of more active interaction. When a user moves the mouse across the canvas, cans near the cursor can grow larger, rotate slightly, or change color. This creates the sense that the repeated commercial images are responding to the viewer's attention. When a user clicks on a can, the can can open and pour out liquid. Keyboard input can also switch between different pop-art color schemes, such as Warhol’s red-and-white mode, a comic-book palette, or a brighter celebrity silkscreen style. By incorporating user input, viewers are no longer just watching those repetitive, static cans. They can interrupt, alter, and interact with the grid. This transforms the static pop art image into an interactive piece. The audience's interactions become part of the work.
+
+**Sketch/reference idea:**
+```
+    A[User moves mouse on canvas] --> B[Detect nearby soup cans]
+    B --> C[Cans enlarge, rotate, or change colour]
+
+    D[User clicks a soup can] --> E[Selected can opens]
+    E --> F[Liquid pours out as a short animation]
+
+    G[User presses keyboard] --> H[Switch Pop Art colour mode]
+    H --> I[Apply new colour palette to the full grid]
+```
 
 # Part 3: Putting It Together 
 
