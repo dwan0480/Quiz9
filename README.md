@@ -38,7 +38,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 
 | Team member     | Mechanic                    |
 | --------------- | --------------------------- |
-| [Zane Zhang]        | Audio                       |
+| **[Zane Zhang]**        | **Audio**                       |
 | **[Martin Wong]** | **Time-based**              |
 | [Name 3]        | Perlin noise and randomness |
 | **[Ming Chen]**   |  **User input**                   |
@@ -50,9 +50,12 @@ The audio mechanic uses both volume and frequency content from the sound input t
 
 **Sketch/reference idea:**
 ```
-Volume ↑ = opening wider + can expands
-Frequency ↑ = stronger deformation
-Random factor = artistic variation
+    Volume ↑ = opening wider + can expands
+    Frequency ↑ = stronger deformation
+    Random factor = artistic variation
+    The variations can still refer to the Pop Art style, as shown in the figure.
+    ![example](photos/4.jpeg)
+     ![example](photos/5.jpg)
 ```
 
 
@@ -90,3 +93,5 @@ All four mechanics will affect the full soup-can grid at the same time, rather t
 [1]: https://www.moma.org/collection/works/79809 "Andy Warhol. Campbell's Soup Cans. 1962"
 [2]: https://www.moma.org/collection/works/79737 "Andy Warhol. Gold Marilyn Monroe. 1962"
 [3]: https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897 "'Whaam!', Roy Lichtenstein, 1963"
+[4]: https://au.pinterest.com/pin/213639576066538015/ "Morales CarreraAlma Rosa"
+[5]: https://au.pinterest.com/pin/492649954927666/ "Eclectic Posters"
