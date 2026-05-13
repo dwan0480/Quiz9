@@ -38,7 +38,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 
 | Team member     | Mechanic                    |
 | --------------- | --------------------------- |
-| **[Zane Zhang]**        | **Audio**                       |
+| **[Zane Zhang]**    | **Audio**                 |
 | **[Martin Wong]** | **Time-based**              |
 | [Name 3]        | Perlin noise and randomness |
 | **[Ming Chen]**   |  **User input**                   |
@@ -53,10 +53,11 @@ The audio mechanic uses both volume and frequency content from the sound input t
     Volume ↑ = opening wider + can expands
     Frequency ↑ = stronger deformation
     Random factor = artistic variation
-    The variations can still refer to the Pop Art style, as shown in the figure.
-    ![example](photos/4.jpeg)
-     ![example](photos/5.jpg)
 ```
+The variations can still refer to the Pop Art style, as shown in the figures (Morales CarreraAlma Rosa, Eclectic Posters, Pint).
+![example](photos/4.jpeg)([Morales CarreraAlma Rosa][4])
+![example](photos/5.jpg)([Eclectic Posters][5])
+
 
 
 
@@ -86,12 +87,27 @@ My interaction mechanisms are based on user input, primarily using the mouse and
     H --> I[Apply new colour palette to the full grid]
 ```
 
+---
+
 # Part 3: Putting It Together 
 
 All four mechanics will affect the full soup-can grid at the same time, rather than assigning one mechanic to one can. The cans will share one canvas and remain visually unified through repeated layout, bold outlines, flat colors, and Pop Art-inspired typography. Audio will drive reactive movement or intensity, time-based events will create rhythmic changes, Perlin noise and randomness will introduce variation, and user input will allow direct interaction. Together, these systems will transform Warhol’s static repetition into a living Pop Art display.
 
-[1]: https://www.moma.org/collection/works/79809 "Andy Warhol. Campbell's Soup Cans. 1962"
-[2]: https://www.moma.org/collection/works/79737 "Andy Warhol. Gold Marilyn Monroe. 1962"
-[3]: https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897 "'Whaam!', Roy Lichtenstein, 1963"
-[4]: https://au.pinterest.com/pin/213639576066538015/ "Morales CarreraAlma Rosa"
-[5]: https://au.pinterest.com/pin/492649954927666/ "Eclectic Posters"
+---
+
+# Resources
+
+[1] The Museum of Modern Art. (n.d.). *Andy Warhol. Campbell’s Soup Cans. 1962*. MoMA.  
+https://www.moma.org/collection/works/79809
+
+[2] The Museum of Modern Art. (n.d.). *Andy Warhol. Gold Marilyn Monroe. 1962*. MoMA.  
+https://www.moma.org/collection/works/79737
+
+[3] Tate. (n.d.). *‘Whaam!’, Roy Lichtenstein, 1963*. Tate.  
+https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897
+
+[4] Morales Carrera, A. R. (n.d.). *Pop Art soup can reference image*. Pinterest.  
+https://au.pinterest.com/pin/213639576066538015/
+
+[5] Eclectic Posters. (n.d.). *Pop Art can reference image*. Pinterest.  
+https://au.pinterest.com/pin/492649954927666/
