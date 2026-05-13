@@ -54,9 +54,12 @@ The audio mechanic uses both volume and frequency content from the sound input t
     Frequency ↑ = stronger deformation
     Random factor = artistic variation
 ```
-The variations can still refer to the Pop Art style, as shown in the figures (Morales CarreraAlma Rosa, Eclectic Posters, Pint).
-![example](photos/4.jpeg)([Morales CarreraAlma Rosa][4])
-![example](photos/5.jpg)([Eclectic Posters][5])
+The variations can still refer to the Pop Art style, as shown in the figures 
+
+![example](photos/4.jpeg)
+([Morales CarreraAlma Rosa][4])
+![example](photos/5.jpg)
+([Eclectic Posters][5])
 
 
 
