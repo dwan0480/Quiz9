@@ -38,12 +38,24 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 
 | Team member     | Mechanic                    |
 | --------------- | --------------------------- |
-| [Name 1]        | Audio                       |
+| [Zane Zhang]        | Audio                       |
 | **[Martin Wong]** | **Time-based**              |
 | [Name 3]        | Perlin noise and randomness |
 | **[Ming Chen]**   |  **User input**                   |
 
 ---
+## Audio Mechanic — [Zane Zhang]
+
+The audio mechanic uses both volume and frequency content from the sound input to drive changes across the soup-can grid. As the volume becomes louder, the opening of each can expands and the overall can shape grows larger, creating a clear sense of visual swelling and energy. Higher-frequency sounds will cause more noticeable deformation, making the cans appear more distorted, stretched, or vibrated. To enhance the artistic quality of the interaction, small random factors will also be introduced so that the movement does not feel too mechanical or predictable. This means that even when the same sound plays, the cans may respond with slight differences in timing or shape. In this way, audio transforms the originally static Warhol-inspired cans into a lively and expressive visual system that reacts directly to sound.
+
+**Sketch/reference idea:**
+```
+Volume ↑ = opening wider + can expands
+Frequency ↑ = stronger deformation
+Random factor = artistic variation
+```
+
+
 
 ## Time-based Mechanic — [Martin Wong]
 
