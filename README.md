@@ -78,11 +78,17 @@ Perlin noise will be used to control subtle, smooth changes in each can, such as
 This mechanic connects with the audio and time-based mechanics by adding variation to their effects. For example, when the audio makes the cans expand, Perlin noise can make each can deform slightly differently. When the timer triggers a colour change, randomness can decide which cans change first. It also connects with user input because clicking or hovering over a can could increase its noise intensity, making that can look more unstable or animated. Overall, this mechanic helps transform Warhol’s repeated soup cans into a dynamic Pop Art system where every can belongs to the same grid but still has its own animated behaviour.
 
 **Sketch/reference idea:**
-Perlin noise = smooth label waves / liquid movement / organic distortion
-Randomness = colour accents / timing variation / different distortion strength
-Audio + noise = cans expand, but each one moves slightly differently
-Timer + randomness = cans change colour in a less predictable sequence
-User input + noise = selected can becomes more unstable or animated
+```
+    Perlin noise = smooth label waves / liquid movement / organic distortion
+
+    Randomness = colour accents / timing variation / different distortion strength
+
+    Audio + noise = cans expand, but each one moves slightly differently
+
+    Timer + randomness = cans change colour in a less predictable sequence
+
+    User input + noise = selected can becomes more unstable or animated
+```
 
 ## User input Mechanic — [Ming Chen]
 
