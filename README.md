@@ -131,11 +131,11 @@ https://au.pinterest.com/pin/213639576066538015/
 [5] Eclectic Posters. (n.d.). *Pop Art can reference image*. Pinterest.  
 https://au.pinterest.com/pin/492649954927666/
 
-[6] p5.js. (n.d.). noise(). p5.js Reference.
+[6] p5.js. (n.d.). noise(). p5.js Reference.  
 https://p5js.org/reference/p5/noise/
 
-[7] p5.js. (n.d.). noiseSeed(). p5.js Reference.
+[7] p5.js. (n.d.). noiseSeed(). p5.js Reference.  
 https://p5js.org/reference/p5/noiseSeed/
 
-[8] The Coding Train. (n.d.). Perlin Noise Example. p5.js Web Editor.
+[8] The Coding Train. (n.d.). Perlin Noise Example. p5.js Web Editor.  
 https://editor.p5js.org/codingtrain/sketches/M_kuAXwV2
