@@ -40,7 +40,7 @@ Our project reinterprets Andy Warhol’s *Campbell’s Soup Cans* as an interact
 | --------------- | --------------------------- |
 | **[Zane Zhang]**    | **Audio**                 |
 | **[Martin Wong]** | **Time-based**              |
-| [Name 3]        | Perlin noise and randomness |
+| **[Yang Zhang]** | **Perlin Noise and Randomness Mechanic**                    |
 | **[Ming Chen]**   |  **User input**                   |
 
 ---
@@ -72,7 +72,17 @@ My mechanic will use timers and timed events to create rhythmic changes across t
 A grid of Campbell’s-style cans with arrows showing timed color changes every 3–5 seconds. Label the states as:
 `Normal palette → Flash palette → Scale pulse → Label flicker → Return to normal`
 
+## Perlin Noise and Randomness Mechanic — [Yang Zhang]
+My mechanic will use Perlin noise and randomness to create natural variation across the repeated soup-can grid. Andy Warhol’s Campbell’s Soup Cans is based on repetition, with 32 panels arranged as a repeated commercial image; MoMA describes the original work as 32 canvas panels, each measuring 20 × 16 inches. In our reinterpretation, I want to keep this repeated Pop Art structure, but make it feel less static and more alive.
+Perlin noise will be used to control subtle, smooth changes in each can, such as small label waves, liquid movement, background texture, and gentle distortion of the can outline. Unlike pure random movement, Perlin noise creates smoother organic motion, so the cans will appear to breathe, ripple, or shift naturally rather than shake randomly. Randomness will be used for smaller visual variations, such as choosing different colour accents, changing the timing of some cans, or slightly altering the amount of distortion on each can. The p5.js noise() function is suitable for this because it returns values between 0 and 1 and can generate smooth variation over time. The noiseSeed() function can also make the noise pattern repeatable if we want a consistent visual result each time the sketch runs.
+This mechanic connects with the audio and time-based mechanics by adding variation to their effects. For example, when the audio makes the cans expand, Perlin noise can make each can deform slightly differently. When the timer triggers a colour change, randomness can decide which cans change first. It also connects with user input because clicking or hovering over a can could increase its noise intensity, making that can look more unstable or animated. Overall, this mechanic helps transform Warhol’s repeated soup cans into a dynamic Pop Art system where every can belongs to the same grid but still has its own animated behaviour.
 
+**Sketch/reference idea:**
+Perlin noise = smooth label waves / liquid movement / organic distortion
+Randomness = colour accents / timing variation / different distortion strength
+Audio + noise = cans expand, but each one moves slightly differently
+Timer + randomness = cans change colour in a less predictable sequence
+User input + noise = selected can becomes more unstable or animated
 
 ## User input Mechanic — [Ming Chen]
 
